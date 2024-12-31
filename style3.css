@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    height: 100vh;
+    width: 100vw;
+    background-image: url(pngtree-revolutionary-smart-home-control-experience-the-future-with-smartphone-integration-image_13549958.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    backdrop-filter: brightness(0.3);
+    font-family: "Poppins", "sans-seirf";
+}
+.logo{
+    height: 150px;
+    width: 150px;
+}
